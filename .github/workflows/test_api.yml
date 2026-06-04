@@ -15,6 +15,7 @@ jobs:
     environment: testing
 
     env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       DATABASE_HOST: ${{ secrets.DATABASE_HOST }}
       DATABASE_PORT: ${{ secrets.DATABASE_PORT }}
       DATABASE_USER: ${{ secrets.DATABASE_USER }}
