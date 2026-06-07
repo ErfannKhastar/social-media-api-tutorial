@@ -148,4 +148,4 @@ I'm a backend software engineer passionate about building scalable architectures
 
 ## 📝 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more details.
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
